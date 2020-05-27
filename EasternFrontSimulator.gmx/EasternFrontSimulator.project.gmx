@@ -47,8 +47,20 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\bck_testMap</background>
+    <background>background\bck_Map1</background>
   </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_G_Tank</object>
+    <object>objects\obj_G_Infantry</object>
+    <object>objects\obj_G_Controller</object>
+    <object>objects\obj_R_Controller</object>
+    <object>objects\obj_game_Controller</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room1</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
